@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #374447;
-		background-image: url("images/TESS-doodle.png"), -moz-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
-		background-image: url("images/TESS-doodle.png"), -webkit-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
-		background-image: url("images/TESS-doodle.png"), -ms-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
-		background-image: url("images/TESS-doodle.png"), linear-gradient(45deg, #7fb183 15%, #82afda 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #7fb183 15%, #82afda 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #7fb183 15%, #82afda 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3073,7 +3073,7 @@ input, select, textarea {
 
 	#header {
 		padding: 5em 5em 1em 5em ;
-		text-align: center;
+		text-align: center;h
 	}
 
 		#header h1 {
@@ -3086,7 +3086,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 1em 2em 0.5em 2em ;
 		}
 
 			#header.alt h1 {
